@@ -1,4 +1,4 @@
-module github.com/wangqingshuai/response
+module github.com/wangqingshaui/response
 
 go 1.22.1
 
